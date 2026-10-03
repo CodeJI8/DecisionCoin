@@ -1,4 +1,4 @@
-package com.example.decisioncoin
+package com.wishINC.decisioncoin
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.example.decisioncoin
+package com.wishINC.decisioncoin
 
 import android.os.Bundle
 import android.provider.Settings
@@ -43,7 +43,6 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.lifecycle.viewmodel.compose.viewModel
-import kotlin.math.PI
 import kotlin.math.abs
 import kotlin.random.Random
 

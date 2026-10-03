@@ -1,4 +1,4 @@
-package com.example.decisioncoin
+package com.wishINC.decisioncoin
 
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertTrue

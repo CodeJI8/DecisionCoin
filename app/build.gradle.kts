@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.decisioncoin"
+    namespace = "com.wishINC.decisioncoin"
     compileSdk = 37
 
     defaultConfig {
